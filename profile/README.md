@@ -1,6 +1,6 @@
 # N2bit
 
-<img src="N2_logo_pequeno.png" alt="Logo N2bit">
+<img src="profile/N2_logo_pequeno.png" alt="Logo N2bit">
 
 #
 
